@@ -21,7 +21,7 @@
     "@lpinca"
   ],
   "dependencies": {
-    "istanbul": "0.4.x",
+    "istanbul": "next",
     "express": "4.x",
     "body-parser": "~1.12.3",
     "archiver": "0.14.x"
